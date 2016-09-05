@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.charlesmilette.nokeyguardindication">
+
+    <application android:label="No Keyguard Indication">
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true" />
+        <meta-data
+            android:name="xposeddescription"
+            android:value="Hides the tips on the lockscreen" />
+        <meta-data
+            android:name="xposedminversion"
+            android:value="81" />
+    </application>
+
+</manifest>
