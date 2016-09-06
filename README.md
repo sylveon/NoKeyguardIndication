@@ -1,6 +1,8 @@
 # No Keyguard Indication
 
-Hides the tips from the Keyguard (also known as lockscreen), such as "Swipe up to unlock" and "Tap again to open"  
+Hides the tips from the Keyguard (also known as lockscreen), such as "Swipe up to unlock" and "Tap again to open"
+
+Please note that this module also hides battery status text on the lockscreen.
 
 It was designed with stock Android in mind. It may work with a OEM ROM, but I don't guarantee anything.
 
