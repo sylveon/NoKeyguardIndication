@@ -12,7 +12,7 @@ If anything doesn't works, you're welcome to file an issue.
 
 [Xposed Module Repository](http://repo.xposed.info/module/me.charlesmilette.nokeyguardindication)
 
-[XDA Developers Forum Thread](example.com)
+[XDA Developers Forum Thread](http://forum.xda-developers.com/xposed/modules/xposed-keyguard-indication-t3456999)
 
 ## Compiling
 
@@ -58,7 +58,7 @@ If you have `adb` usable, you can use `adb install -r <apk>`
 
 If not, you need to enable sideloading by checking `Settings > Security > Device administration > Unknown sources`. Use your favorite way of sending a file to your Android device. Then, from a file explorer, open the file.
 
-If you only want to use the module and not build it, you can install it [here](http://forum.xda-developers.com/xposed/modules/xposed-oneplus-2-drawer-icon-t3344112).
+If you only want to use the module and not build it, you can install it [here](http://forum.xda-developers.com/xposed/modules/xposed-keyguard-indication-t3456999).
 
 ## Uninstalling
 
