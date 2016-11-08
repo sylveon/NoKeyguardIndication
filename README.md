@@ -58,7 +58,7 @@ If you have `adb` usable, you can use `adb install -r <apk>`
 
 If not, you need to enable sideloading by checking `Settings > Security > Device administration > Unknown sources`. Use your favorite way of sending a file to your Android device. Then, from a file explorer, open the file.
 
-If you only want to use the module and not build it, you can install it [here](http://forum.xda-developers.com/xposed/modules/xposed-keyguard-indication-t3456999).
+If you only want to use the module and not build it, you can install it [here](http://repo.xposed.info/module/me.charlesmilette.nokeyguardindication).
 
 ## Uninstalling
 
